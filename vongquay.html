@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thắp nến tri ân</title>
+    <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+    <div id="start_video">
+        <video class="video-tx" width="700" height="700" controls>
+            <source src="NEN.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div id="over">
+        <main id="display-main-random">
+            <h1 class="h1-title-random">Thắp nến tri ân</h1>
+            <div class="main-wheel-random">
+                <div class="icon-arrow-random">
+                    <img src="./Arrow.png" alt="arrow" />
+                </div>
+                <ul class="wheel-random"></ul>
+            </div>
+            <div>
+                <button class="btn-start-random">Bắt đầu quay</button>
+                <button class="btn-confirm-random" disabled>Xác nhận</button>
+            </div>
+            <h1 class="msg-random"></h1>
+        </main>
+    </div>
+    <div>
+        <img src="./ngang 2 top.png" style="width: 100%;height: 100%;" />
+    </div>
+    <div class="information">
+        <div class="scrore" style="color: red;font-size: 20px;font-weight: 700;"></div>
+        <div>
+            <h2>Nhập họ tên người chơi</h2>
+        </div>
+        <div><input type="text" id="name-play" placeholder="Họ và tên" /></div>
+        <div>
+            <button class="btn-play">Bắt đầu</button>
+            <button class="btn-play-new" disabled>Chơi mới</button>
+        </div>
+        <div class="number-wheel">
+            Số lượt quay: 5
+        </div>
+        <div class="number-question">
+            Số câu trả lời đúng: 0
+        </div>
+    </div>
+    <main id="display-main">
+        <h1 class="h1-title">Vòng quay may mắn</h1>
+        <div class="main-wheel">
+            <div class="icon-arrow">
+                <img src="./Arrow.png" alt="arrow" />
+            </div>
+            <ul class="wheel"></ul>
+        </div>
+        <div>
+            <button class="btn-start" disabled>Bắt đầu quay</button>
+        </div>
+        <h1 class="msg"></h1>
+        <div class="question" style="margin-top: 20px;"></div>
+        <div class="div-confirm">
+            <p>
+            <div style="display: inline-table;"><button class="btn-confirm">Xác nhận</button></div>
+            <div style="display: inline-table;margin-left: 10px; color: red;" class="result-text"></div>
+            </p>
+        </div>
+    </main>
+    <div class="history">
+        <div>
+            <h2>Kết quả</h2>
+        </div>
+        <div class="result"></div>
+    </div>
+    <div class="img-footer">
+        <img src="./ngang 2 bottom.png" style="width: 100%;height: 100%;margin-top: 0px;" />
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

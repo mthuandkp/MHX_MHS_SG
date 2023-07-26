@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "name": "trinh",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 7:44:16); Lần 2: Câu hỏi số 2 (26-2-2023 7:44:45); Lần 3: Câu hỏi số 23 (26-2-2023 7:44:60); ",
+    "socautraloidung": 3,
+  },
+  {
+    "id": 3,
+    "name": "Tính",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 8:13:51); Lần 2: Câu hỏi số 21 (26-2-2023 8:14:1); Lần 3: Câu hỏi số 14 (26-2-2023 8:14:36); ",
+    "socautraloidung": 2,
+  },
+  {
+    "id": 4,
+    "name": "vu",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 8:15:37); Lần 2: Câu hỏi số 20 (26-2-2023 8:16:8); Lần 3: Câu hỏi số 16 (26-2-2023 8:16:34); ",
+    "socautraloidung": 2,
+  },
+  {
+    "id": 5,
+    "name": "nguyễn lâm vân an",
+    "ketqua": "Lần 1: Câu hỏi số 3 (26-2-2023 8:18:36); Lần 2: Sổ tay lớn SGU (26-2-2023 8:19:4); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 8:19:37); ",
+    "socautraloidung": 0,
+  },
+  {
+    "id": 6,
+    "name": "lê thành",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 8:20:7); Lần 2: Mất lượt (26-2-2023 8:20:29); Lần 3: Câu hỏi số 7 (26-2-2023 8:20:38); ",
+    "socautraloidung": 1,
+  },
+  {
+    "id": 7,
+    "name": "anh du",
+    "ketqua": "Lần 1: Câu hỏi số 8 (26-2-2023 8:21:46); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 8:22:17); Lần 3: Câu hỏi số 8 (26-2-2023 8:22:38); ",
+    "socautraloidung": 0,
+  },
+  {
+    "id": 8,
+    "name": "Nguyễn Thị kim ngân",
+    "ketqua": "Lần 1: Câu hỏi số 4 (26-2-2023 8:24:26); Lần 2: Câu hỏi số 22 (26-2-2023 8:24:47); Lần 3: Câu hỏi số 9 (26-2-2023 8:25:25); ",
+    "socautraloidung": 1,
+  },
+  {
+    "id": 9,
+    "name": "nguyễn thị huế trinh",
+    "ketqua": "Lần 1: Sổ tay lớn SGU (26-2-2023 8:26:15); Lần 2: Câu hỏi số 13 (26-2-2023 8:26:28); Lần 3: Câu hỏi số 6 (26-2-2023 8:26:50); ",
+    "socautraloidung": 2,
+  },
+  {
+    "id": 10,
+    "name": "võ dương ngọc huyền",
+    "ketqua": "Lần 1: Sổ tay lớn SGU (26-2-2023 8:27:52); Lần 2: Mất lượt (26-2-2023 8:28:3); Lần 3: Câu hỏi số 15 (26-2-2023 8:28:11); ",
+    "socautraloidung": 1,
+  },
+  {
+    "id": 11,
+    "name": "Ngô Thanh Trúc ",
+    "ketqua": "Lần 1: Câu hỏi số 13 (26-2-2023 8:29:2); Lần 2: Bình nước SGU (26-2-2023 8:29:23); Lần 3: Sổ tay lớn SGU (26-2-2023 8:29:34); ",
+    "socautraloidung": 1,
+  },
+  {
+    "id": 13,
+    "name": "mai nguyễn tường vi",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 8:30:50); Lần 2: Câu hỏi số 20 (26-2-2023 8:31:9); Lần 3: Bình nước SGU (26-2-2023 8:31:36); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 14,
+    "name": "đặng thị mỹ trang",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 8:32:17); Lần 2: Câu hỏi số 2 (26-2-2023 8:32:35); Lần 3: Câu hỏi số 24 (26-2-2023 8:32:52); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 15,
+    "name": "huỳnh tấn lập",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 8:33:58); Lần 2: Mất lượt (26-2-2023 8:34:29); Lần 3: Câu hỏi số 16 (26-2-2023 8:34:38); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 16,
+    "name": "lê thị kim ngân",
+    "ketqua": "Lần 1: Câu hỏi số 16 (26-2-2023 8:35:21); Lần 2: Sổ tay lớn SGU (26-2-2023 8:35:37); Lần 3: Câu hỏi số 20 (26-2-2023 8:35:50); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 17,
+    "name": "bạch dương",
+    "ketqua": "Lần 1: Câu hỏi số 22 (26-2-2023 8:36:41); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 8:37:11); Lần 3: Câu hỏi số 13 (26-2-2023 8:37:17); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 18,
+    "name": "thu thảo",
+    "ketqua": "Lần 1: Câu hỏi số 23 (26-2-2023 8:38:3); Lần 2: Câu hỏi số 9 (26-2-2023 8:38:32); Lần 3: Câu hỏi số 26 (26-2-2023 8:38:51); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 19,
+    "name": "mạnh tiến",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 8:39:34); Lần 2: Câu hỏi số 2 (26-2-2023 8:40:2); Lần 3: Câu hỏi số 24 (26-2-2023 8:40:20); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 20,
+    "name": "tien vinh",
+    "ketqua": "Lần 1: Câu hỏi số 15 (26-2-2023 8:41:22); Lần 2: Câu hỏi số 11 (26-2-2023 8:41:39); Lần 3: Thêm lượt (26-2-2023 8:42:5); Lần 4: Câu hỏi số 14 (26-2-2023 8:42:14); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 21,
+    "name": "võ thế vinh",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 8:42:60); Lần 2: Câu hỏi số 26 (26-2-2023 8:43:7); Lần 3: Câu hỏi số 9 (26-2-2023 8:43:29); Lần 4: Mất lượt (26-2-2023 8:43:46); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 22,
+    "name": "lê văn kiệt",
+    "ketqua": "Lần 1: Câu hỏi số 5 (26-2-2023 8:44:12); Lần 2: Câu hỏi số 1 (26-2-2023 8:44:30); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 8:44:55); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 23,
+    "name": "đào trọng định",
+    "ketqua": "Lần 1: Câu hỏi số 21 (26-2-2023 8:45:18); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 8:45:42); Lần 3: Câu hỏi số 1 (26-2-2023 8:45:49); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 24,
+    "name": "trần thị thanh thảo",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 8:46:48); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 8:47:2); Lần 3: Mất lượt (26-2-2023 8:47:10); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 25,
+    "name": "Lê Hùng Mạnh",
+    "ketqua": "Lần 1: Câu hỏi số 24 (26-2-2023 8:49:48); Lần 2: Thêm lượt (26-2-2023 8:50:9); Lần 3: Câu hỏi số 12 (26-2-2023 8:50:16); Lần 4: Câu hỏi số 24 (26-2-2023 8:50:35); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 26,
+    "name": "Lê Thanh Lôc",
+    "ketqua": "Lần 1: Câu hỏi số 3 (26-2-2023 8:51:26); Lần 2: Câu hỏi số 16 (26-2-2023 8:51:45); Lần 3: Câu hỏi số 26 (26-2-2023 8:52:6); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 27,
+    "name": "Trương Phước Bình",
+    "ketqua": "Lần 1: Câu hỏi số 13 (26-2-2023 8:53:27); Lần 2: Câu hỏi số 16 (26-2-2023 8:53:48); Lần 3: Câu hỏi số 11 (26-2-2023 8:54:6); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 28,
+    "name": "PHAN NGUYỄN HÙNG",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 8:54:56); Lần 2: Câu hỏi số 11 (26-2-2023 8:55:15); Lần 3: Thêm lượt (26-2-2023 8:55:29); Lần 4: Câu hỏi số 10 (26-2-2023 8:55:36); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 30,
+    "name": "Nguyễn Trung Kin",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 8:56:47); Lần 2: Mất lượt (26-2-2023 8:57:4); Lần 3: Sổ tay lớn SGU (26-2-2023 8:57:12); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 31,
+    "name": "Nguyễn Phúc Khánh",
+    "ketqua": "Lần 1: Câu hỏi số 14 (26-2-2023 8:57:43); Lần 2: Mất lượt (26-2-2023 8:58:2); Lần 3: Sổ tay lớn SGU (26-2-2023 8:58:8); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 32,
+    "name": "Lê Trần Minh Ngọc ",
+    "ketqua": "Lần 1: Bình nước SGU (26-2-2023 8:58:43); Lần 2: Câu hỏi số 20 (26-2-2023 8:58:52); Lần 3: Bình nước SGU (26-2-2023 8:59:11); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 33,
+    "name": "Đoàn Ngọc Thảo Vy",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 8:59:54); Lần 2: Thêm lượt (26-2-2023 8:60:14); Lần 3: Câu hỏi số 13 (26-2-2023 8:60:21); Lần 4: Sổ tay lớn SGU (26-2-2023 8:60:35); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 34,
+    "name": "Nguyễn Thị Ngọc Trân",
+    "ketqua": "Lần 1: Câu hỏi số 14 (26-2-2023 9:1:17); Lần 2: Sổ tay lớn SGU (26-2-2023 9:1:31); Lần 3: Câu hỏi số 17 (26-2-2023 9:1:41); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 35,
+    "name": "Bùi Mai Thảo Uyên",
+    "ketqua": "Lần 1: Sổ tay lớn SGU (26-2-2023 9:2:33); Lần 2: Câu hỏi số 23 (26-2-2023 9:2:40); Lần 3: Sổ tay lớn SGU (26-2-2023 9:3:1); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 36,
+    "name": "Trương Nhả Uyên",
+    "ketqua": "Lần 1: Câu hỏi số 20 (26-2-2023 9:3:33); Lần 2: Câu hỏi số 5 (26-2-2023 9:3:52); Lần 3: Câu hỏi số 13 (26-2-2023 9:4:9); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 37,
+    "name": "Trần Huỳnh Trà Giang",
+    "ketqua": "Lần 1: Câu hỏi số 7 (26-2-2023 9:4:48); Lần 2: Câu hỏi số 10 (26-2-2023 9:5:5); Lần 3: Câu hỏi số 8 (26-2-2023 9:5:20); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 38,
+    "name": "nguyễn huỳnh bảo trân",
+    "ketqua": "Lần 1: Câu hỏi số 21 (26-2-2023 9:6:35); Lần 2: Câu hỏi số 13 (26-2-2023 9:7:10); Lần 3: Câu hỏi số 16 (26-2-2023 9:7:31); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 39,
+    "name": "lê thanh tân",
+    "ketqua": "Lần 1: Câu hỏi số 3 (26-2-2023 9:8:24); Lần 2: Câu hỏi số 11 (26-2-2023 9:8:41); Lần 3: Câu hỏi số 14 (26-2-2023 9:9:1); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 40,
+    "name": "Nguyen Trong Nghia",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 9:9:46); Lần 2: Câu hỏi số 9 (26-2-2023 9:10:7); Lần 3: Câu hỏi số 15 (26-2-2023 9:10:27); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 42,
+    "name": "quynh nhu",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 9:11:47); Lần 2: Câu hỏi số 3 (26-2-2023 9:11:54); Lần 3: Câu hỏi số 4 (26-2-2023 9:12:13); Lần 4: Thêm lượt (26-2-2023 9:12:34); Lần 5: Câu hỏi số 21 (26-2-2023 9:12:41); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 43,
+    "name": "quyên",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 9:13:29); Lần 2: Câu hỏi số 17 (26-2-2023 9:13:49); Lần 3: Câu hỏi số 6 (26-2-2023 9:14:6); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 44,
+    "name": "lộ lộ",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 9:14:58); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 9:15:12); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 9:15:21); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 45,
+    "name": "tuan anh",
+    "ketqua": "Lần 1: Sổ tay lớn SGU (26-2-2023 9:15:52); Lần 2: Câu hỏi số 24 (26-2-2023 9:16:1); Lần 3: Câu hỏi số 4 (26-2-2023 9:16:28); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 46,
+    "name": "minhhieu",
+    "ketqua": "Lần 1: Câu hỏi số 26 (26-2-2023 9:17:35); Lần 2: Câu hỏi số 26 (26-2-2023 9:17:57); Lần 3: Thêm lượt (26-2-2023 9:18:20); Lần 4: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 9:18:30); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 47,
+    "name": "gia khôi",
+    "ketqua": "Lần 1: Câu hỏi số 20 (26-2-2023 9:19:8); Lần 2: Thêm lượt (26-2-2023 9:19:26); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 9:19:37); Lần 4: Câu hỏi số 3 (26-2-2023 9:19:43); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 48,
+    "name": "phat dat",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 9:20:30); Lần 2: Câu hỏi số 3 (26-2-2023 9:20:59); Lần 3: Câu hỏi số 8 (26-2-2023 9:21:17); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 49,
+    "name": "Thien Lang",
+    "ketqua": "Lần 1: Câu hỏi số 15 (26-2-2023 9:21:60); Lần 2: Câu hỏi số 15 (26-2-2023 9:22:16); Lần 3: Thêm lượt (26-2-2023 9:22:28); Lần 4: Câu hỏi số 20 (26-2-2023 9:22:35); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 50,
+    "name": "diem my",
+    "ketqua": "Lần 1: Câu hỏi số 15 (26-2-2023 9:23:16); Lần 2: Câu hỏi số 20 (26-2-2023 9:23:34); Lần 3: Câu hỏi số 4 (26-2-2023 9:23:51); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 51,
+    "name": "thanh trung",
+    "ketqua": "Lần 1: Câu hỏi số 20 (26-2-2023 9:24:32); Lần 2: Câu hỏi số 23 (26-2-2023 9:24:55); Lần 3: Câu hỏi số 6 (26-2-2023 9:25:26); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 52,
+    "name": "Phương THy",
+    "ketqua": "Lần 1: Câu hỏi số 22 (26-2-2023 9:26:27); Lần 2: Câu hỏi số 11 (26-2-2023 9:26:46); Lần 3: Câu hỏi số 13 (26-2-2023 9:27:2); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 53,
+    "name": "thy",
+    "ketqua": "Lần 1: Câu hỏi số 8 (26-2-2023 9:27:37); Lần 2: Câu hỏi số 3 (26-2-2023 9:27:54); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 9:28:16); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 54,
+    "name": "Mai Trâm",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 9:28:51); Lần 2: Câu hỏi số 5 (26-2-2023 9:28:58); Lần 3: Câu hỏi số 21 (26-2-2023 9:29:16); Lần 4: Câu hỏi số 10 (26-2-2023 9:29:36); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 55,
+    "name": "tuong",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 9:30:13); Lần 2: Thêm lượt (26-2-2023 9:30:22); Lần 3: Câu hỏi số 11 (26-2-2023 9:30:29); Lần 4: Câu hỏi số 3 (26-2-2023 9:30:45); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 56,
+    "name": "Quỳnh Như",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 9:31:22); Lần 2: Câu hỏi số 4 (26-2-2023 9:31:30); Lần 3: Câu hỏi số 25 (26-2-2023 9:31:48); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 57,
+    "name": "Kim Uyên",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 9:32:44); Lần 2: Câu hỏi số 26 (26-2-2023 9:33:2); Lần 3: Câu hỏi số 14 (26-2-2023 9:33:23); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 58,
+    "name": "nhật",
+    "ketqua": "Lần 1: Câu hỏi số 2 (26-2-2023 9:34:1); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 9:34:21); Lần 3: Câu hỏi số 6 (26-2-2023 9:34:28); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 59,
+    "name": "linh",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 9:35:4); Lần 2: Câu hỏi số 26 (26-2-2023 9:35:10); Lần 3: Câu hỏi số 22 (26-2-2023 9:35:26); Lần 4: Câu hỏi số 10 (26-2-2023 9:35:43); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 60,
+    "name": "phước",
+    "ketqua": "Lần 1: Câu hỏi số 23 (26-2-2023 9:36:11); Lần 2: Câu hỏi số 22 (26-2-2023 9:36:24); Lần 3: Câu hỏi số 16 (26-2-2023 9:36:42); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 61,
+    "name": "hoàng",
+    "ketqua": "Lần 1: Câu hỏi số 16 (26-2-2023 9:37:20); Lần 2: Sổ tay lớn SGU (26-2-2023 9:37:34); Lần 3: Câu hỏi số 15 (26-2-2023 9:37:44); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 62,
+    "name": "trâm",
+    "ketqua": "Lần 1: Câu hỏi số 1 (26-2-2023 9:38:33); Lần 2: Câu hỏi số 13 (26-2-2023 9:38:58); Lần 3: Câu hỏi số 23 (26-2-2023 9:39:15); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 63,
+    "name": "hân",
+    "ketqua": "Lần 1: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 9:40:2); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 9:40:11); Lần 3: Sổ tay lớn SGU (26-2-2023 9:40:19); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 64,
+    "name": "phát",
+    "ketqua": "Lần 1: Câu hỏi số 12 (26-2-2023 9:40:44); Lần 2: Câu hỏi số 16 (26-2-2023 9:41:10); Lần 3: Câu hỏi số 15 (26-2-2023 9:41:29); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 65,
+    "name": "bngoc",
+    "ketqua": "Lần 1: Câu hỏi số 1 (26-2-2023 9:42:23); Lần 2: Câu hỏi số 4 (26-2-2023 9:42:46); Lần 3: Câu hỏi số 21 (26-2-2023 9:43:11); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 66,
+    "name": "nguyễn thị phương diễm",
+    "ketqua": "Lần 1: Câu hỏi số 13 (26-2-2023 9:44:19); Lần 2: Câu hỏi số 24 (26-2-2023 9:44:38); Lần 3: Câu hỏi số 14 (26-2-2023 9:45:3); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 67,
+    "name": "lương hồ quỳnh hương",
+    "ketqua": "Lần 1: Câu hỏi số 23 (26-2-2023 9:45:53); Lần 2: Mất lượt (26-2-2023 9:46:18); Lần 3: Câu hỏi số 6 (26-2-2023 9:46:26); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 68,
+    "name": "nguyễn ngọc cẩm ly",
+    "ketqua": "Lần 1: Câu hỏi số 24 (26-2-2023 9:47:11); Lần 2: Câu hỏi số 25 (26-2-2023 9:47:33); Lần 3: Câu hỏi số 23 (26-2-2023 9:47:53); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 69,
+    "name": "trần phụng tuyền",
+    "ketqua": "Lần 1: Câu hỏi số 2 (26-2-2023 9:48:33); Lần 2: Câu hỏi số 3 (26-2-2023 9:48:48); Lần 3: Câu hỏi số 23 (26-2-2023 9:49:4); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 70,
+    "name": "phAM HUYNH BAO TRAN",
+    "ketqua": "Lần 1: Câu hỏi số 20 (26-2-2023 9:49:44); Lần 2: Câu hỏi số 2 (26-2-2023 9:50:9); Lần 3: Câu hỏi số 11 (26-2-2023 9:50:22); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 71,
+    "name": "TRAN PHUNG TIEN",
+    "ketqua": "Lần 1: Câu hỏi số 13 (26-2-2023 9:51:2); Lần 2: Câu hỏi số 25 (26-2-2023 9:51:24); Lần 3: Thêm lượt (26-2-2023 9:51:48); Lần 4: Câu hỏi số 25 (26-2-2023 9:51:56); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 72,
+    "name": "HO THI PHUONG UYEN",
+    "ketqua": "Lần 1: Câu hỏi số 1 (26-2-2023 9:52:39); Lần 2: Câu hỏi số 18 (26-2-2023 9:53:1); Lần 3: Thêm lượt (26-2-2023 9:53:45); Lần 4: Câu hỏi số 20 (26-2-2023 9:53:53); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 73,
+    "name": "NGUYEN THANH HAI",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 9:54:38); Lần 2: Câu hỏi số 4 (26-2-2023 9:54:52); Lần 3: Mất lượt (26-2-2023 9:55:5); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 74,
+    "name": "LE THI KIM THI",
+    "ketqua": "Lần 1: Câu hỏi số 21 (26-2-2023 9:55:32); Lần 2: Thêm lượt (26-2-2023 9:55:57); Lần 3: Câu hỏi số 11 (26-2-2023 9:56:4); Lần 4: Câu hỏi số 8 (26-2-2023 9:56:20); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 75,
+    "name": "DO THI MY Hang",
+    "ketqua": "Lần 1: Câu hỏi số 12 (26-2-2023 9:57:2); Lần 2: Câu hỏi số 19 (26-2-2023 9:57:24); Lần 3: Câu hỏi số 15 (26-2-2023 9:57:47); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 76,
+    "name": "bui anh thai",
+    "ketqua": "Lần 1: Câu hỏi số 3 (26-2-2023 9:58:28); Lần 2: Câu hỏi số 15 (26-2-2023 9:58:51); Lần 3: Câu hỏi số 15 (26-2-2023 9:59:7); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 77,
+    "name": "nguyen hoang phuong",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 9:59:52); Lần 2: Câu hỏi số 22 (26-2-2023 9:60:16); Lần 3: Câu hỏi số 24 (26-2-2023 9:60:36); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 78,
+    "name": "Bui Anh THai",
+    "ketqua": "Lần 1: Câu hỏi số 4 (26-2-2023 10:1:23); Lần 2: Câu hỏi số 15 (26-2-2023 10:1:39); Lần 3: Câu hỏi số 18 (26-2-2023 10:1:55); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 79,
+    "name": "le  thi nhu ngoc",
+    "ketqua": "Lần 1: Bình nước SGU (26-2-2023 10:2:57); Lần 2: Câu hỏi số 22 (26-2-2023 10:3:10); Lần 3: Câu hỏi số 26 (26-2-2023 10:3:27); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 80,
+    "name": "trinh thi thuy trang",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 10:4:22); Lần 2: Câu hỏi số 1 (26-2-2023 10:4:37); Lần 3: Câu hỏi số 14 (26-2-2023 10:4:56); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 81,
+    "name": "nguyen dai phong",
+    "ketqua": "Lần 1: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 10:5:39); Lần 2: Câu hỏi số 16 (26-2-2023 10:5:48); Lần 3: Mất lượt (26-2-2023 10:6:14); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 82,
+    "name": "lê trần yến nhi",
+    "ketqua": "Lần 1: Câu hỏi số 12 (26-2-2023 10:6:45); Lần 2: Câu hỏi số 18 (26-2-2023 10:7:15); Lần 3: Câu hỏi số 18 (26-2-2023 10:7:38); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 83,
+    "name": "huỳnh dương phương thảo",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 10:8:36); Lần 2: Câu hỏi số 13 (26-2-2023 10:8:51); Lần 3: Câu hỏi số 2 (26-2-2023 10:9:15); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 84,
+    "name": "trần thị như hảo",
+    "ketqua": "Lần 1: Câu hỏi số 15 (26-2-2023 10:9:52); Lần 2: Câu hỏi số 10 (26-2-2023 10:10:11); Lần 3: Câu hỏi số 4 (26-2-2023 10:10:33); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 85,
+    "name": "Phan Thành Đạt",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 10:11:38); Lần 2: Câu hỏi số 11 (26-2-2023 10:11:46); Lần 3: Mất lượt (26-2-2023 10:12:7); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 86,
+    "name": "trần nam",
+    "ketqua": "Lần 1: Câu hỏi số 4 (26-2-2023 10:12:37); Lần 2: Câu hỏi số 6 (26-2-2023 10:13:2); Lần 3: Câu hỏi số 9 (26-2-2023 10:13:14); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 87,
+    "name": "nguyễn mỹ anh",
+    "ketqua": "Lần 1: Câu hỏi số 14 (26-2-2023 10:13:59); Lần 2: Câu hỏi số 17 (26-2-2023 10:14:17); Lần 3: Câu hỏi số 16 (26-2-2023 10:14:43); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 88,
+    "name": "bui anh minh ",
+    "ketqua": "Lần 1: Câu hỏi số 23 (26-2-2023 10:15:26); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 10:15:56); Lần 3: Câu hỏi số 21 (26-2-2023 10:16:5); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 90,
+    "name": "nguyễn minh trịnh",
+    "ketqua": "Lần 1: Câu hỏi số 4 (26-2-2023 10:17:4); Lần 2: Câu hỏi số 12 (26-2-2023 10:17:24); Lần 3: Mất lượt (26-2-2023 10:17:44); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 91,
+    "name": " bui nhat chuong",
+    "ketqua": "Lần 1: Bình nước SGU (26-2-2023 10:18:14); Lần 2: Câu hỏi số 18 (26-2-2023 10:18:28); Lần 3: Câu hỏi số 21 (26-2-2023 10:18:57); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 92,
+    "name": "Nguyễn Ngọc Anh Hiếu",
+    "ketqua": "Lần 1: Câu hỏi số 8 (26-2-2023 10:20:38); Lần 2: Câu hỏi số 8 (26-2-2023 10:21:1); Lần 3: Câu hỏi số 20 (26-2-2023 10:21:23); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 94,
+    "name": "Nguyễn Minh Ngọc",
+    "ketqua": "Lần 1: Bình nước SGU (26-2-2023 10:22:29); Lần 2: Câu hỏi số 4 (26-2-2023 10:22:40); Lần 3: Câu hỏi số 8 (26-2-2023 10:23:7); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 95,
+    "name": "Lê Mỹ Quỳnh Như",
+    "ketqua": "Lần 1: Câu hỏi số 20 (26-2-2023 10:23:53); Lần 2: Bình nước SGU (26-2-2023 10:24:14); Lần 3: Câu hỏi số 14 (26-2-2023 10:24:24); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 96,
+    "name": "nguyễn ngọc minh hiếu",
+    "ketqua": "Lần 1: Sổ tay lớn SGU (26-2-2023 10:25:14); Lần 2: Câu hỏi số 25 (26-2-2023 10:25:22); Lần 3: Câu hỏi số 23 (26-2-2023 10:25:45); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 97,
+    "name": "trần minh triều",
+    "ketqua": "Lần 1: Câu hỏi số 10 (26-2-2023 10:26:33); Lần 2: Bình nước SGU (26-2-2023 10:26:49); Lần 3: Câu hỏi số 8 (26-2-2023 10:26:57); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 98,
+    "name": "nguyen trung tin",
+    "ketqua": "Lần 1: Câu hỏi số 7 (26-2-2023 10:27:49); Lần 2: Câu hỏi số 10 (26-2-2023 10:28:13); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 10:28:33); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 99,
+    "name": "tran thi cam my",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 10:28:56); Lần 2: Sổ tay lớn SGU (26-2-2023 10:29:20); Lần 3: Câu hỏi số 9 (26-2-2023 10:29:27); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 100,
+    "name": "hồ hoài phong",
+    "ketqua": "Lần 1: Câu hỏi số 10 (26-2-2023 10:30:5); Lần 2: Câu hỏi số 26 (26-2-2023 10:30:19); Lần 3: Câu hỏi số 21 (26-2-2023 10:30:32); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 101,
+    "name": "bùi thị mỹ duyên",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 10:31:16); Lần 2: Thêm lượt (26-2-2023 10:31:22); Lần 3: Câu hỏi số 2 (26-2-2023 10:31:29); Lần 4: Câu hỏi số 24 (26-2-2023 10:31:45); Lần 5: Câu hỏi số 11 (26-2-2023 10:32:1); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 102,
+    "name": "duong quoc thái",
+    "ketqua": "Lần 1: Câu hỏi số 2 (26-2-2023 10:32:40); Lần 2: Câu hỏi số 25 (26-2-2023 10:32:54); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 10:33:24); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 103,
+    "name": "Phạm Lê Bảo Trân",
+    "ketqua": "Lần 1: Câu hỏi số 15 (26-2-2023 10:34:7); Lần 2: Mất lượt (26-2-2023 10:34:20); Lần 3: Câu hỏi số 10 (26-2-2023 10:34:27); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 104,
+    "name": "trần thị phương",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 10:35:5); Lần 2: Sổ tay lớn SGU (26-2-2023 10:35:20); Lần 3: Câu hỏi số 17 (26-2-2023 10:35:27); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 105,
+    "name": "Lê Huỳnh Ngọc",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 10:36:22); Lần 2: Câu hỏi số 14 (26-2-2023 10:36:29); Lần 3: Câu hỏi số 16 (26-2-2023 10:36:48); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 106,
+    "name": "Lưu Yến Ngọc",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 10:37:30); Lần 2: Câu hỏi số 3 (26-2-2023 10:37:45); Lần 3: Câu hỏi số 20 (26-2-2023 10:37:60); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 107,
+    "name": "Nguyễn Đoàn Thủy Tiên",
+    "ketqua": "Lần 1: Câu hỏi số 1 (26-2-2023 10:38:41); Lần 2: Câu hỏi số 6 (26-2-2023 10:38:56); Lần 3: Câu hỏi số 8 (26-2-2023 10:39:6); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 108,
+    "name": "Hiếu Nhi ",
+    "ketqua": "Lần 1: Câu hỏi số 16 (26-2-2023 10:39:43); Lần 2: Câu hỏi số 17 (26-2-2023 10:39:55); Lần 3: Bình nước SGU (26-2-2023 10:40:8); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 109,
+    "name": "thúy phương",
+    "ketqua": "Lần 1: Câu hỏi số 26 (26-2-2023 10:40:45); Lần 2: Câu hỏi số 8 (26-2-2023 10:41:5); Lần 3: Câu hỏi số 16 (26-2-2023 10:41:18); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 110,
+    "name": "thúy kiều",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 10:41:53); Lần 2: Câu hỏi số 2 (26-2-2023 10:42:7); Lần 3: Câu hỏi số 25 (26-2-2023 10:42:20); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 111,
+    "name": "thuy trang",
+    "ketqua": "Lần 1: Câu hỏi số 13 (26-2-2023 10:43:2); Lần 2: Thêm lượt (26-2-2023 10:43:20); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 10:43:30); Lần 4: Câu hỏi số 7 (26-2-2023 10:43:38); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 112,
+    "name": "minh phuong",
+    "ketqua": "Lần 1: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 10:44:17); Lần 2: Câu hỏi số 3 (26-2-2023 10:44:25); Lần 3: Câu hỏi số 12 (26-2-2023 10:44:49); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 113,
+    "name": "Lê Khánh",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 10:45:33); Lần 2: Câu hỏi số 8 (26-2-2023 10:45:53); Lần 3: Câu hỏi số 10 (26-2-2023 10:46:12); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 114,
+    "name": "Trà My",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 10:46:57); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 10:47:7); Lần 3: Câu hỏi số 10 (26-2-2023 10:47:14); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 115,
+    "name": "tất thành",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 10:47:41); Lần 2: Câu hỏi số 18 (26-2-2023 10:47:56); Lần 3: Câu hỏi số 3 (26-2-2023 10:48:28); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 116,
+    "name": "ha my",
+    "ketqua": "Lần 1: Câu hỏi số 23 (26-2-2023 10:49:5); Lần 2: Câu hỏi số 22 (26-2-2023 10:49:37); Lần 3: Bình nước SGU (26-2-2023 10:50:1); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 117,
+    "name": "hữu thắng",
+    "ketqua": "Lần 1: Câu hỏi số 7 (26-2-2023 10:50:42); Lần 2: Câu hỏi số 16 (26-2-2023 10:50:57); Lần 3: Câu hỏi số 11 (26-2-2023 10:51:17); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 118,
+    "name": "thạch thanh thảo",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 10:51:59); Lần 2: Câu hỏi số 16 (26-2-2023 10:52:22); Lần 3: Câu hỏi số 15 (26-2-2023 10:52:48); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 119,
+    "name": "trong tam",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 10:53:29); Lần 2: Sổ tay lớn SGU (26-2-2023 10:53:42); Lần 3: Câu hỏi số 4 (26-2-2023 10:53:48); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 120,
+    "name": "thuy trang",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 10:54:21); Lần 2: Câu hỏi số 22 (26-2-2023 10:54:35); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 10:54:51); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 121,
+    "name": "minh thư",
+    "ketqua": "Lần 1: Câu hỏi số 8 (26-2-2023 10:55:24); Lần 2: Câu hỏi số 14 (26-2-2023 10:55:49); Lần 3: Câu hỏi số 17 (26-2-2023 10:56:9); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 122,
+    "name": "ngoc minh",
+    "ketqua": "Lần 1: Câu hỏi số 16 (26-2-2023 10:56:53); Lần 2: Câu hỏi số 18 (26-2-2023 10:57:11); Lần 3: Bình nước SGU (26-2-2023 10:57:43); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 123,
+    "name": "my quynh",
+    "ketqua": "Lần 1: Câu hỏi số 13 (26-2-2023 10:58:21); Lần 2: Câu hỏi số 25 (26-2-2023 10:58:39); Lần 3: Sổ tay lớn SGU (26-2-2023 10:59:3); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 124,
+    "name": ",minh anh",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 10:59:31); Lần 2: Thêm lượt (26-2-2023 10:59:38); Lần 3: Câu hỏi số 5 (26-2-2023 10:59:45); Lần 4: Câu hỏi số 6 (26-2-2023 10:60:4); Lần 5: Câu hỏi số 5 (26-2-2023 10:60:17); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 125,
+    "name": "nguyễn trọng phúc ",
+    "ketqua": "Lần 1: Câu hỏi số 3 (26-2-2023 11:1:16); Lần 2: Câu hỏi số 1 (26-2-2023 11:1:38); Lần 3: Câu hỏi số 7 (26-2-2023 11:2:2); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 126,
+    "name": "nguyễn xuân hiếu",
+    "ketqua": "Lần 1: Câu hỏi số 21 (26-2-2023 11:2:58); Lần 2: Câu hỏi số 15 (26-2-2023 11:3:25); Lần 3: Câu hỏi số 15 (26-2-2023 11:3:48); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 127,
+    "name": "vinh",
+    "ketqua": "Lần 1: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 11:4:21); Lần 2: Mất lượt (26-2-2023 11:4:29); Lần 3: Mất lượt (26-2-2023 11:4:36); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 128,
+    "name": "trần thị diễm hương",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 11:5:17); Lần 2: Câu hỏi số 9 (26-2-2023 11:5:24); Lần 3: Bình nước SGU (26-2-2023 11:5:40); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 129,
+    "name": "tiến",
+    "ketqua": "Lần 1: Câu hỏi số 2 (26-2-2023 11:6:15); Lần 2: Câu hỏi số 4 (26-2-2023 11:6:28); Lần 3: Câu hỏi số 15 (26-2-2023 11:6:54); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 131,
+    "name": "hoang",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 11:7:35); Lần 2: Câu hỏi số 19 (26-2-2023 11:8:25); Lần 3: Câu hỏi số 10 (26-2-2023 11:8:55); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 132,
+    "name": "hân",
+    "ketqua": "Lần 1: Sổ tay lớn SGU (26-2-2023 11:9:46); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 11:10:2); Lần 3: Câu hỏi số 14 (26-2-2023 11:10:10); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 133,
+    "name": "ngọc",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 11:10:46); Lần 2: Mất lượt (26-2-2023 11:11:19); Lần 3: Mất lượt (26-2-2023 11:11:27); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 134,
+    "name": "my",
+    "ketqua": "Lần 1: Câu hỏi số 14 (26-2-2023 11:11:50); Lần 2: Câu hỏi số 25 (26-2-2023 11:12:5); Lần 3: Câu hỏi số 14 (26-2-2023 11:12:43); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 135,
+    "name": "trung",
+    "ketqua": "Lần 1: Câu hỏi số 22 (26-2-2023 11:13:26); Lần 2: Câu hỏi số 4 (26-2-2023 11:13:53); Lần 3: Câu hỏi số 5 (26-2-2023 11:14:10); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 136,
+    "name": "mỹ",
+    "ketqua": "Lần 1: Câu hỏi số 14 (26-2-2023 11:15:11); Lần 2: Bình nước SGU (26-2-2023 11:15:30); Lần 3: Câu hỏi số 2 (26-2-2023 11:15:41); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 137,
+    "name": "thư",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 11:16:30); Lần 2: Câu hỏi số 6 (26-2-2023 11:16:38); Lần 3: Câu hỏi số 19 (26-2-2023 11:16:59); Lần 4: Câu hỏi số 12 (26-2-2023 11:17:17); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 138,
+    "name": "nhung",
+    "ketqua": "Lần 1: Câu hỏi số 5 (26-2-2023 11:18:7); Lần 2: Câu hỏi số 5 (26-2-2023 11:18:23); Lần 3: Câu hỏi số 2 (26-2-2023 11:18:42); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 139,
+    "name": "tâm",
+    "ketqua": "Lần 1: Câu hỏi số 24 (26-2-2023 11:19:22); Lần 2: Câu hỏi số 24 (26-2-2023 11:19:50); Lần 3: Câu hỏi số 10 (26-2-2023 11:20:9); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 140,
+    "name": "bảo",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 11:20:50); Lần 2: Câu hỏi số 21 (26-2-2023 11:20:56); Lần 3: Câu hỏi số 16 (26-2-2023 11:21:31); Lần 4: Câu hỏi số 19 (26-2-2023 11:21:53); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 141,
+    "name": "nhật",
+    "ketqua": "Lần 1: Câu hỏi số 23 (26-2-2023 11:22:36); Lần 2: Bình nước SGU (26-2-2023 11:23:2); Lần 3: Câu hỏi số 2 (26-2-2023 11:23:13); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 142,
+    "name": "phat",
+    "ketqua": "Lần 1: Câu hỏi số 16 (26-2-2023 11:24:2); Lần 2: Câu hỏi số 26 (26-2-2023 11:24:20); Lần 3: Câu hỏi số 26 (26-2-2023 11:24:36); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 143,
+    "name": "vy",
+    "ketqua": "Lần 1: Câu hỏi số 7 (26-2-2023 11:26:6); Lần 2: Câu hỏi số 2 (26-2-2023 11:26:34); Lần 3: Câu hỏi số 17 (26-2-2023 11:26:47); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 144,
+    "name": "thuong",
+    "ketqua": "Lần 1: Câu hỏi số 7 (26-2-2023 11:27:26); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 11:27:45); Lần 3: Câu hỏi số 21 (26-2-2023 11:27:53); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 145,
+    "name": "tuan",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 11:28:44); Lần 2: Câu hỏi số 18 (26-2-2023 11:29:5); Lần 3: Câu hỏi số 1 (26-2-2023 11:29:47); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 146,
+    "name": "tam",
+    "ketqua": "Lần 1: Câu hỏi số 20 (26-2-2023 11:30:28); Lần 2: Câu hỏi số 13 (26-2-2023 11:30:49); Lần 3: Câu hỏi số 5 (26-2-2023 11:31:6); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 147,
+    "name": "nhu",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 11:31:48); Lần 2: Câu hỏi số 3 (26-2-2023 11:32:1); Lần 3: Câu hỏi số 8 (26-2-2023 11:32:32); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 148,
+    "name": "kaiz",
+    "ketqua": "Lần 1: Câu hỏi số 22 (26-2-2023 11:33:16); Lần 2: Mất lượt (26-2-2023 11:33:45); Lần 3: Câu hỏi số 2 (26-2-2023 11:33:59); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 149,
+    "name": "hân",
+    "ketqua": "Lần 1: Câu hỏi số 21 (26-2-2023 11:34:58); Lần 2: Câu hỏi số 16 (26-2-2023 11:35:19); Lần 3: Câu hỏi số 4 (26-2-2023 11:35:39); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 150,
+    "name": "phat",
+    "ketqua": "Lần 1: Câu hỏi số 1 (26-2-2023 11:36:16); Lần 2: Câu hỏi số 5 (26-2-2023 11:36:47); Lần 3: Thêm lượt (26-2-2023 11:37:1); Lần 4: Bình nước SGU (26-2-2023 11:37:10); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 151,
+    "name": "đạt",
+    "ketqua": "Lần 1: Bình nước SGU (26-2-2023 11:37:57); Lần 2: Câu hỏi số 22 (26-2-2023 11:38:9); Lần 3: Câu hỏi số 23 (26-2-2023 11:38:32); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 152,
+    "name": "hiep",
+    "ketqua": "Lần 1: Sổ tay lớn SGU (26-2-2023 11:39:25); Lần 2: Sổ tay lớn SGU (26-2-2023 11:39:34); Lần 3: Câu hỏi số 15 (26-2-2023 11:39:41); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 153,
+    "name": "khang",
+    "ketqua": "Lần 1: Câu hỏi số 24 (26-2-2023 11:40:27); Lần 2: Mất lượt (26-2-2023 11:40:55); Lần 3: Câu hỏi số 5 (26-2-2023 11:41:3); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 154,
+    "name": "phong",
+    "ketqua": "Lần 1: Câu hỏi số 21 (26-2-2023 11:41:42); Lần 2: Mất lượt (26-2-2023 11:42:2); Lần 3: Câu hỏi số 9 (26-2-2023 11:42:8); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 155,
+    "name": "khang",
+    "ketqua": "Lần 1: Câu hỏi số 3 (26-2-2023 11:42:47); Lần 2: Câu hỏi số 21 (26-2-2023 11:43:4); Lần 3: Câu hỏi số 6 (26-2-2023 11:43:23); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 156,
+    "name": "Đô",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 11:44:5); Lần 2: Bình nước SGU (26-2-2023 11:44:19); Lần 3: Thêm lượt (26-2-2023 11:44:30); Lần 4: Câu hỏi số 3 (26-2-2023 11:44:37); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 157,
+    "name": "Thịnh",
+    "ketqua": "Lần 1: Câu hỏi số 25 (26-2-2023 11:45:24); Lần 2: Câu hỏi số 16 (26-2-2023 11:45:46); Lần 3: Thêm lượt (26-2-2023 11:46:5); Lần 4: Câu hỏi số 12 (26-2-2023 11:46:11); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 158,
+    "name": "nhật",
+    "ketqua": "Lần 1: Câu hỏi số 9 (26-2-2023 11:46:53); Lần 2: Câu hỏi số 21 (26-2-2023 11:47:7); Lần 3: Sổ tay lớn SGU (26-2-2023 11:47:31); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 159,
+    "name": "nghi",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 11:48:16); Lần 2: Câu hỏi số 5 (26-2-2023 11:48:22); Lần 3: Câu hỏi số 7 (26-2-2023 11:48:58); Lần 4: Thêm lượt (26-2-2023 11:49:21); Lần 5: Câu hỏi số 24 (26-2-2023 11:49:28); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 160,
+    "name": "loan",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 11:50:2); Lần 2: Câu hỏi số 11 (26-2-2023 11:50:20); Lần 3: Sổ tay lớn SGU (26-2-2023 11:50:35); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 161,
+    "name": "thư",
+    "ketqua": "Lần 1: Câu hỏi số 21 (26-2-2023 11:51:3); Lần 2: Mất lượt (26-2-2023 11:51:25); Lần 3: Câu hỏi số 13 (26-2-2023 11:51:34); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 163,
+    "name": "vĩnh",
+    "ketqua": "Lần 1: Câu hỏi số 14 (26-2-2023 11:52:13); Lần 2: Câu hỏi số 14 (26-2-2023 11:52:28); Lần 3: Câu hỏi số 23 (26-2-2023 11:52:42); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 164,
+    "name": "xuan",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 11:53:20); Lần 2: Câu hỏi số 3 (26-2-2023 11:53:27); Lần 3: Câu hỏi số 19 (26-2-2023 11:53:42); Lần 4: Câu hỏi số 14 (26-2-2023 11:54:1); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 165,
+    "name": "nam",
+    "ketqua": "Lần 1: Câu hỏi số 4 (26-2-2023 11:54:29); Lần 2: Câu hỏi số 8 (26-2-2023 11:54:48); Lần 3: Câu hỏi số 22 (26-2-2023 11:55:6); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 166,
+    "name": "chau",
+    "ketqua": "Lần 1: Câu hỏi số 8 (26-2-2023 11:55:54); Lần 2: Câu hỏi số 14 (26-2-2023 11:56:14); Lần 3: Câu hỏi số 20 (26-2-2023 11:56:29); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 167,
+    "name": "phat",
+    "ketqua": "Lần 1: Câu hỏi số 15 (26-2-2023 11:57:23); Lần 2: Mất lượt (26-2-2023 11:57:44); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 11:57:56); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 168,
+    "name": "anh",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 11:58:30); Lần 2: Câu hỏi số 8 (26-2-2023 11:58:36); Lần 3: Câu hỏi số 13 (26-2-2023 11:58:49); Lần 4: Thêm lượt (26-2-2023 11:59:4); Lần 5: Câu hỏi số 9 (26-2-2023 11:59:11); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 169,
+    "name": "duong",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 11:59:57); Lần 2: Câu hỏi số 26 (26-2-2023 11:60:19); Lần 3: Câu hỏi số 20 (26-2-2023 11:60:45); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 170,
+    "name": "nhân",
+    "ketqua": "Lần 1: Câu hỏi số 25 (26-2-2023 12:1:16); Lần 2: Thêm lượt (26-2-2023 12:1:34); Lần 3: Câu hỏi số 2 (26-2-2023 12:1:41); Lần 4: Câu hỏi số 16 (26-2-2023 12:1:53); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 171,
+    "name": "phuongg",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 12:2:33); Lần 2: Câu hỏi số 9 (26-2-2023 12:2:46); Lần 3: Câu hỏi số 23 (26-2-2023 12:3:1); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 172,
+    "name": "khang",
+    "ketqua": "Lần 1: Câu hỏi số 23 (26-2-2023 12:3:40); Lần 2: Câu hỏi số 2 (26-2-2023 12:3:54); Lần 3: Câu hỏi số 13 (26-2-2023 12:4:4); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 173,
+    "name": "trinh",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 12:4:53); Lần 2: Câu hỏi số 26 (26-2-2023 12:5:5); Lần 3: Câu hỏi số 25 (26-2-2023 12:5:28); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 174,
+    "name": "phuong",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 12:6:14); Lần 2: Câu hỏi số 4 (26-2-2023 12:6:33); Lần 3: Câu hỏi số 3 (26-2-2023 12:6:52); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 176,
+    "name": "nhi",
+    "ketqua": "Lần 1: Câu hỏi số 2 (26-2-2023 12:7:43); Lần 2: Câu hỏi số 14 (26-2-2023 12:7:59); Lần 3: Câu hỏi số 26 (26-2-2023 12:8:15); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 177,
+    "name": "truong",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 12:9:24); Lần 2: Câu hỏi số 19 (26-2-2023 12:9:33); Lần 3: Câu hỏi số 5 (26-2-2023 12:9:55); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 178,
+    "name": "hưng",
+    "ketqua": "Lần 1: Câu hỏi số 22 (26-2-2023 12:10:31); Lần 2: Câu hỏi số 25 (26-2-2023 12:10:55); Lần 3: Câu hỏi số 17 (26-2-2023 12:11:9); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 179,
+    "name": "thanh",
+    "ketqua": "Lần 1: Câu hỏi số 13 (26-2-2023 12:11:49); Lần 2: Câu hỏi số 23 (26-2-2023 12:12:2); Lần 3: Câu hỏi số 19 (26-2-2023 12:12:21); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 180,
+    "name": "trang",
+    "ketqua": "Lần 1: Câu hỏi số 25 (26-2-2023 12:13:20); Lần 2: Câu hỏi số 15 (26-2-2023 12:13:38); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 12:13:58); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 181,
+    "name": "huynh hong quang",
+    "ketqua": "Lần 1: Câu hỏi số 18 (26-2-2023 12:14:32); Lần 2: Câu hỏi số 25 (26-2-2023 12:14:59); Lần 3: Mất lượt (26-2-2023 12:15:12); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 182,
+    "name": "vy",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 12:15:34); Lần 2: Câu hỏi số 25 (26-2-2023 12:15:40); Lần 3: Bình nước SGU (26-2-2023 12:15:52); Lần 4: Sổ tay lớn SGU (26-2-2023 12:16:2); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 183,
+    "name": "trung",
+    "ketqua": "Lần 1: Câu hỏi số 23 (26-2-2023 12:16:35); Lần 2: Câu hỏi số 5 (26-2-2023 12:16:50); Lần 3: Câu hỏi số 13 (26-2-2023 12:17:3); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 184,
+    "name": "lê hồng ánh",
+    "ketqua": "Lần 1: Câu hỏi số 5 (26-2-2023 12:17:55); Lần 2: Câu hỏi số 24 (26-2-2023 12:18:9); Lần 3: Câu hỏi số 25 (26-2-2023 12:18:54); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 185,
+    "name": "nguyen quoc tuan",
+    "ketqua": "Lần 1: Bình nước SGU (26-2-2023 12:19:35); Lần 2: Bình nước SGU (26-2-2023 12:19:43); Lần 3: Câu hỏi số 15 (26-2-2023 12:19:51); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 186,
+    "name": "tran thi ngoc tran",
+    "ketqua": "Lần 1: Câu hỏi số 18 (26-2-2023 12:20:35); Lần 2: Câu hỏi số 24 (26-2-2023 12:20:58); Lần 3: Câu hỏi số 15 (26-2-2023 12:21:26); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 187,
+    "name": "nguyen thi thuy an",
+    "ketqua": "Lần 1: Mất lượt (26-2-2023 12:21:60); Lần 2: Thêm lượt (26-2-2023 12:22:9); Lần 3: Câu hỏi số 1 (26-2-2023 12:22:18); Lần 4: Câu hỏi số 26 (26-2-2023 12:22:44); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 189,
+    "name": "dinh thi thao nhi",
+    "ketqua": "Lần 1: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 12:23:50); Lần 2: Câu hỏi số 22 (26-2-2023 12:23:58); Lần 3: Câu hỏi số 4 (26-2-2023 12:24:16); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 190,
+    "name": "lê thị cẩm ly",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 12:25:12); Lần 2: Câu hỏi số 13 (26-2-2023 12:25:18); Lần 3: Câu hỏi số 3 (26-2-2023 12:25:48); Lần 4: Câu hỏi số 6 (26-2-2023 12:26:7); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 191,
+    "name": "lan anh",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 12:26:41); Lần 2: Mất lượt (26-2-2023 12:26:47); Lần 3: Câu hỏi số 9 (26-2-2023 12:26:53); Lần 4: Câu hỏi số 18 (26-2-2023 12:27:12); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 192,
+    "name": "vy",
+    "ketqua": "Lần 1: Câu hỏi số 1 (26-2-2023 12:27:45); Lần 2: Câu hỏi số 23 (26-2-2023 12:28:4); Lần 3: Thêm lượt (26-2-2023 12:28:16); Lần 4: Câu hỏi số 16 (26-2-2023 12:28:26); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 193,
+    "name": "nguyễn huỳnh thương",
+    "ketqua": "Lần 1: Câu hỏi số 26 (26-2-2023 12:29:11); Lần 2: Câu hỏi số 3 (26-2-2023 12:29:27); Lần 3: Câu hỏi số 11 (26-2-2023 12:29:59); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 194,
+    "name": "Châu",
+    "ketqua": "Lần 1: Câu hỏi số 26 (26-2-2023 12:30:45); Lần 2: Câu hỏi số 25 (26-2-2023 12:30:59); Lần 3: Thêm lượt (26-2-2023 12:31:14); Lần 4: Câu hỏi số 17 (26-2-2023 12:31:23); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 196,
+    "name": "KHNGOC",
+    "ketqua": "Lần 1: Câu hỏi số 18 (26-2-2023 12:32:11); Lần 2: Câu hỏi số 17 (26-2-2023 12:32:33); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 12:32:50); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 197,
+    "name": "HUNG",
+    "ketqua": "Lần 1: Câu hỏi số 15 (26-2-2023 12:33:23); Lần 2: Câu hỏi số 8 (26-2-2023 12:33:35); Lần 3: Câu hỏi số 22 (26-2-2023 12:33:50); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 198,
+    "name": "THBAO",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 12:34:33); Lần 2: Câu hỏi số 22 (26-2-2023 12:34:50); Lần 3: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 12:35:7); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 199,
+    "name": "lhNHIEN",
+    "ketqua": "Lần 1: Câu hỏi số 12 (26-2-2023 12:35:41); Lần 2: Câu hỏi số 13 (26-2-2023 12:35:59); Lần 3: Câu hỏi số 7 (26-2-2023 12:36:13); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 200,
+    "name": "CAO ANH",
+    "ketqua": "Lần 1: Câu hỏi số 3 (26-2-2023 12:36:47); Lần 2: Câu hỏi số 5 (26-2-2023 12:37:10); Lần 3: Mất lượt (26-2-2023 12:37:29); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 201,
+    "name": "HOAI NAM",
+    "ketqua": "Lần 1: Câu hỏi số 16 (26-2-2023 12:37:50); Lần 2: Thêm lượt (26-2-2023 12:38:6); Lần 3: Câu hỏi số 21 (26-2-2023 12:38:12); Lần 4: Câu hỏi số 8 (26-2-2023 12:38:41); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 202,
+    "name": "VAN NGHI",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 12:39:20); Lần 2: Câu hỏi số 5 (26-2-2023 12:39:37); Lần 3: Câu hỏi số 22 (26-2-2023 12:39:51); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 203,
+    "name": "MAI TÍNH",
+    "ketqua": "Lần 1: Câu hỏi số 13 (26-2-2023 12:40:31); Lần 2: Sổ tay lớn SGU (26-2-2023 12:40:45); Lần 3: Mất lượt (26-2-2023 12:40:54); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 204,
+    "name": "VIỆT BÁCH",
+    "ketqua": "Lần 1: Câu hỏi số 5 (26-2-2023 12:41:14); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 12:41:29); Lần 3: Câu hỏi số 18 (26-2-2023 12:41:38); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 205,
+    "name": "BAO TOAN",
+    "ketqua": "Lần 1: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 12:42:27); Lần 2: Câu hỏi số 17 (26-2-2023 12:42:35); Lần 3: Câu hỏi số 20 (26-2-2023 12:42:54); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 206,
+    "name": "NGUYEN TRAN KIM HONG",
+    "ketqua": "Lần 1: Câu hỏi số 10 (26-2-2023 12:43:38); Lần 2: Câu hỏi số 25 (26-2-2023 12:44:3); Lần 3: Câu hỏi số 17 (26-2-2023 12:44:29); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 207,
+    "name": "TAN TAI",
+    "ketqua": "Lần 1: Câu hỏi số 12 (26-2-2023 12:45:5); Lần 2: Thêm lượt (26-2-2023 12:45:22); Lần 3: Câu hỏi số 8 (26-2-2023 12:45:30); Lần 4: Câu hỏi số 2 (26-2-2023 12:45:47); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 208,
+    "name": "QUANG HUY",
+    "ketqua": "Lần 1: Câu hỏi số 12 (26-2-2023 12:46:20); Lần 2: Câu hỏi số 5 (26-2-2023 12:46:32); Lần 3: Câu hỏi số 17 (26-2-2023 12:46:44); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 209,
+    "name": "THANH THAO",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 12:47:11); Lần 2: Thêm lượt (26-2-2023 12:47:39); Lần 3: Mất lượt (26-2-2023 12:47:49); Lần 4: Câu hỏi số 3 (26-2-2023 12:47:55); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 210,
+    "name": "mi",
+    "ketqua": "Lần 1: Bình nước SGU (26-2-2023 12:48:39); Lần 2: Câu hỏi số 23 (26-2-2023 12:48:49); Lần 3: Câu hỏi số 16 (26-2-2023 12:49:1); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 211,
+    "name": "han",
+    "ketqua": "Lần 1: Câu hỏi số 3 (26-2-2023 12:49:31); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 12:49:46); Lần 3: Câu hỏi số 20 (26-2-2023 12:49:53); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 212,
+    "name": "thi",
+    "ketqua": "Lần 1: Câu hỏi số 11 (26-2-2023 12:50:29); Lần 2: Câu hỏi số 3 (26-2-2023 12:50:42); Lần 3: Câu hỏi số 7 (26-2-2023 12:50:53); ",
+    "socautraloidung": 3
+  },
+  {
+    "id": 213,
+    "name": "oanh",
+    "ketqua": "Lần 1: Câu hỏi số 20 (26-2-2023 12:51:19); Lần 2: Thêm lượt (26-2-2023 12:51:35); Lần 3: Câu hỏi số 5 (26-2-2023 12:51:42); Lần 4: Mất lượt (26-2-2023 12:51:55); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 214,
+    "name": "Anh",
+    "ketqua": "Lần 1: Thêm lượt (26-2-2023 12:52:33); Lần 2: Câu hỏi số 4 (26-2-2023 12:52:42); Lần 3: Câu hỏi số 4 (26-2-2023 12:52:58); Lần 4: Câu hỏi số 1 (26-2-2023 12:53:15); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 215,
+    "name": "quynh'",
+    "ketqua": "Lần 1: Câu hỏi số 16 (26-2-2023 12:53:56); Lần 2: Câu hỏi số 5 (26-2-2023 12:54:10); Lần 3: Câu hỏi số 14 (26-2-2023 12:54:29); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 216,
+    "name": "diệu",
+    "ketqua": "Lần 1: Câu hỏi số 19 (26-2-2023 12:55:14); Lần 2: Câu hỏi số 20 (26-2-2023 12:55:33); Lần 3: Câu hỏi số 8 (26-2-2023 12:55:53); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 217,
+    "name": "ý",
+    "ketqua": "Lần 1: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 12:56:48); Lần 2: Quà ngẫu nhiên (Sổ nhỏ SGU) (26-2-2023 12:56:58); Lần 3: Câu hỏi số 4 (26-2-2023 12:57:6); ",
+    "socautraloidung": 1
+  },
+  {
+    "id": 218,
+    "name": "khoa",
+    "ketqua": "Lần 1: Câu hỏi số 24 (26-2-2023 12:57:50); Lần 2: Câu hỏi số 4 (26-2-2023 12:58:10); Lần 3: Câu hỏi số 13 (26-2-2023 12:58:26); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 219,
+    "name": "phúc",
+    "ketqua": "Lần 1: Câu hỏi số 6 (26-2-2023 12:59:8); Lần 2: Câu hỏi số 22 (26-2-2023 12:59:24); Lần 3: Câu hỏi số 21 (26-2-2023 12:59:41); ",
+    "socautraloidung": 0
+  },
+  {
+    "id": 220,
+    "name": "Huân",
+    "ketqua": "Lần 1: Câu hỏi số 3 (26-2-2023 12:60:31); Lần 2: Câu hỏi số 25 (26-2-2023 12:60:46); Lần 3: Câu hỏi số 24 (26-2-2023 13:1:4); ",
+    "socautraloidung": 2
+  },
+  {
+    "id": 221,
+    "name": "Nhu",
+    "ketqua": "Lần 1: Câu hỏi số 4 (26-2-2023 13:1:38); Lần 2: Câu hỏi số 26 (26-2-2023 13:1:52); Lần 3: Mất lượt (26-2-2023 13:2:14); ",
+    "socautraloidung": 1
+  }
+]
